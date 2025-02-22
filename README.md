@@ -29,10 +29,10 @@ cd resume-screening-app
 
 2. Download cfl.pkl file here https://www.kaggle.com/datasets/rehanahassan/clf-pkl
 
-# Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-# Run the application
+4. Run the application
 streamlit run app.py
 ```
 
