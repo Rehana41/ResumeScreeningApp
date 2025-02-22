@@ -23,10 +23,10 @@ The **Resume Screening App** is a machine learning-based application that automa
 
 ### Steps to Set Up Locally:
 ```bash
-1. (Clone the repository)
-[https://github.com/Rehana41/ResumeScreeningApp]
+1. [Clone the repository]
+(https://github.com/Rehana41/ResumeScreeningApp)
 
-2. (Download cfl.pkl file here) [https://www.kaggle.com/datasets/rehanahassan/clf-pkl]
+2. [Download cfl.pkl file here] (https://www.kaggle.com/datasets/rehanahassan/clf-pkl)
 
 3. Install dependencies
    pip install -r requirements.txt
